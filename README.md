@@ -1,8 +1,8 @@
 # car-price-prediction-xgboost
 Predicting used car prices using Craigslist dataset and XGBoost regression with advanced feature engineering and cross-validation.
 
-
-📊 Interactive dashboard built in Power BI showcasing average car price by manufacturer, price trend over years, target comparison, fuel type distribution, and vehicle type breakdown.
+![Dashboard](temp.png)
+>📊 Interactive dashboard built in Power BI showcasing average car price by manufacturer, price trend over years, target comparison, fuel type distribution, and vehicle type breakdown.
 
 # 🚗 Car Price Prediction Using XGBoost | Craigslist Cars Dataset
 
