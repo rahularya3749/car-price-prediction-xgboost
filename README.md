@@ -67,7 +67,7 @@ We use **log-transformed price (`log_price`)** as the target variable to stabili
 - Final prediction scores converted from log-scale back to price
 
 ## 📁 Repository Structure
-
+```
 craigslist-car-price-xgboost/
 ├── 01_xgboost_regressor_car_price.ipynb  # 📓 Full notebook: EDA → Preprocessing → Modeling
 ├── car_dash.pbit                         # 📊 Power BI dashboard template
@@ -75,7 +75,7 @@ craigslist-car-price-xgboost/
 ├── temp.png                              # 🖼 Dashboard screenshot
 ├── README.md                             # 📘 Project overview and results
 
-
+```
 
 ## 📚 Libraries Used
 
